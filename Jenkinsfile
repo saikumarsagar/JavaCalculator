@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('SCM') {
             steps {
-                git 'https://github.com/ravi2krishna/JavaCalculator.git'
+                git 'https://github.com/saikumarsagar/JavaCalculator.git'
             }
         }
 
